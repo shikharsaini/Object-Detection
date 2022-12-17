@@ -15,6 +15,7 @@ Frontend:
 - Javascript
 - Html
 - Css
+
 Backend:
 - Flask
 
