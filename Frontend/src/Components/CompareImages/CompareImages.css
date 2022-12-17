@@ -1,0 +1,22 @@
+.boxes{
+    width: 40%;
+    height: 300px;
+    margin: 1%;
+    margin-left: 4%;
+    margin-right: 4%;
+    border: 2px solid black;
+    float: left;
+}
+.temp{
+        margin: 1%;
+        margin-left: 4%;
+        margin-right: 4%;
+        border: 2px solid black;
+        float: left;
+}
+.vl{
+    border-left: 2px solid lightblue;
+    margin: 1%;
+    float: left;
+    height: 300px;
+}

@@ -1,0 +1,17 @@
+.heading{
+    font-size: 270%;
+    font-family: 'Michroma', sans-serif;
+}
+
+.subheading{
+    font-size: 200%;
+    padding: 10%;
+}
+
+/* .Navbox{
+    box-shadow: 1px 1px 10px 1px rebeccapurple;
+} */
+
+.inputbox{
+    font-size: 140%;
+}

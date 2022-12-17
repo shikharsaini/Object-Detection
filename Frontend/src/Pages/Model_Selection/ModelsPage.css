@@ -1,0 +1,15 @@
+.headings{
+    text-align:left;
+    font-family: 'Playfair Display', serif;
+    font-size: 240%;
+    padding: 2%;
+    background-color: #F3FAFF;
+    box-shadow: 0px 3px 0px 0px powderblue;
+}
+.Area{
+    background-color: floralwhite;
+}
+hr{ 
+    margin: 0em;
+    border-width: 2px;
+}
